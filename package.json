@@ -1,0 +1,25 @@
+{
+  "name": "know-me",
+  "version": "1.0.0",
+  "description": "个人门户网站 简单介绍自己",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryGaoGH/know-me.git"
+  },
+  "keywords": [
+    "了解我"
+  ],
+  "author": "HenryGao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenryGaoGH/know-me/issues"
+  },
+  "homepage": "https://github.com/HenryGaoGH/know-me#readme",
+  "dependencies": {
+    "hexo": "^5.1.1"
+  }
+}
